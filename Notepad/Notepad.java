@@ -93,7 +93,7 @@ public class Notepad extends JFrame implements ActionListener,WindowListener
 	setLocation(400,50);
 	//setDefaultCloseOperation(EXIT_ON_CLOSE);
 	this.addWindowListener(this);
-	setTitle("Notpad By Love");
+	setTitle("Notpad");
 	//........................................................................................................................................
 	// shortcuts
 	File.setMnemonic('F');Edit.setMnemonic('E');Format.setMnemonic('o');View.setMnemonic('V');Help.setMnemonic('H');
